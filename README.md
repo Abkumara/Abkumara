@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Food App**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Android Studio, Java ,Html, Css, JavaScrip , Ct**
+- 💬 Ask me about **Flutter,Android Studio, Java ,Html, Css, JavaScrip , Ct**
 
 - 📫 How to reach me **gammedaliyanageayesh@gmail.com**
 
